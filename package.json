@@ -6,6 +6,13 @@
     "type": "git",
     "url": "https://github.com/renjie-run/nest-demo-register-login"
   },
+  "keywords": [
+    "nest",
+    "nestjs",
+    "typeorm",
+    "mysql",
+    "jwt"
+  ],
   "author": "Jerry Ren <rj.aiyayai@gmail.com> (http://github.com/renjie-run)",
   "private": true,
   "license": "MIT",
