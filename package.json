@@ -1,7 +1,7 @@
 {
   "name": "nest-demo-register-login",
   "version": "0.0.1",
-  "description": "The demo of create user and login which powerd by NestJS.",
+  "description": "The demo of create user and login which powered by NestJS.",
   "repository": {
     "type": "git",
     "url": "https://github.com/renjie-run/nest-demo-register-login"
