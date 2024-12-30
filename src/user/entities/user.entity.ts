@@ -26,10 +26,10 @@ export class User {
   @CreateDateColumn({
     comment: '创建时间',
   })
-  create_time: Date;
+  created_time: Date;
 
   @UpdateDateColumn({
     comment: '修改时间',
   })
-  update_time: Date;
+  updated_time: Date;
 }
